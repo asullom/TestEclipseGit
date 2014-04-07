@@ -6,6 +6,7 @@ public class HolaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		// Linea 1
+		// Linea 2 REMOTE
 		// Linea 2 LOCAL
 		// Linea 3 
 	}
