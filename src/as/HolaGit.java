@@ -7,8 +7,10 @@ public class HolaGit {
 		System.out.println("Hola");
 		// Linea angel.1
 		// Linea angel.2
+		// Linea local.1
+		// Linea remote.1
 		// Linea angel.3
-
+		  
 	}
 
 }
