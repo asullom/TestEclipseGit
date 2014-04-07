@@ -11,8 +11,10 @@ public class HolaGit {
 		// Linea remote.1
 		// Linea local.2
 		// Linea remote.2
+		// Linea local.3
+		// Linea remote.3
 		// Linea angel.3
-		 
+		
 	}
 
 }
